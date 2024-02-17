@@ -1,0 +1,30 @@
+{
+  "name": "cmsi3802",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "c8 mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christineli1412/cmsi3802.git"
+  },
+  "author": "Christine Li, Ty Valencia, Will LoGiudice",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/christineli1412/cmsi3802/issues"
+  },
+  "homepage": "https://github.com/christineli1412/cmsi3802#readme",
+  "keywords": [
+    "ohm"
+  ],
+  "devDependencies": {
+    "c9": "^3.1.3534",
+    "mocha": "^10.3.0"
+  },
+  "dependencies": {
+    "ohm-js": "^17.1.0"
+  }
+}
